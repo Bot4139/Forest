@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+}
+
+img {
+    width: 140px;
+    height: 140px;
+    border: 3px solid black
+
+}
+
+body {
+    background-color: greenyellow;
+}
+
+p {
+    font-size: 30px;
+    color: brown;
+    border: 3px solid black;
+    margin: 100px;
+    padding: 60px;
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+img {
+    border: black;
+}
+
+nav a {
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 30px;
+    border: 3px solid black;
+    padding: 5px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+footer {
+    background-color: aqua;
+}
+
+nav {
+    display: flex; 
+    justify-content: space-around;
+}   
